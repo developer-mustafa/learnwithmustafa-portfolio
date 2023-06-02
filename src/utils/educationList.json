@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "educationTitle": "Ext.University college of Technology.",
+    "startDate": "2019",
+    "endDate": "present",
+    "position": "Computer science and engineering. (CSE)",
+    "location": "Dhaka, Bangladesh",
+    "description": "I am passionate and gather of  knowledge gain in the computer science.Especially web and software development"
+  },
+  {
+    "id": 1,
+    "educationTitle": "Feni Govt College.",
+    "startDate": "-",
+    "endDate": "present",
+    "position": "Bsc",
+    "location": "Feni,Chattogram, Bangladesh",
+    "description": "Fantastic learning Environment"
+  }
+]
