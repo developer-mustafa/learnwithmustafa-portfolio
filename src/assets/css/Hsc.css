@@ -62,9 +62,12 @@
 .icon.fb {
   --brand-color: #3b5998; /* Facebook brand color */
 }
+.icon.fb2 {
+  --brand-color: #2f6bed; /* Facebook brand color */
+}
 
 .icon.wp {
-  --brand-color: #25d366; /* WhatsApp brand color */
+  --brand-color: #0dc04e; /* WhatsApp brand color */
 }
 
 .icon.git {
@@ -75,8 +78,8 @@
   --brand-color: #0e76a8; /* LinkedIn brand color */
 }
 
-.icon.twt {
-  --brand-color: #1da1f2; /* Twitter brand color */
+.icon.msg {
+  --brand-color:#0695FF; /* Twitter brand color */
 }
 
 .icon.yt {

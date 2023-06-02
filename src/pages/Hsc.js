@@ -12,14 +12,15 @@ const Hsc = () => {
             <i className="fa-brands fa-facebook-f"></i>
             <span>
               <a
-                href="https://www.facebook.com/samir.hossen.980?mibextid=ZbWKwL"
+                href="https://www.facebook.com/groups/707432811185493/?mibextid=NSMWBT"
                 target="_blank"
                 rel="noreferrer"
               >
-                Facebook Group
+                HSC-2024 Batch Group
               </a>
             </span>
           </div>
+
           <div className="icon wp">
             <i className="fa-brands fa-whatsapp"></i>
             <span>
@@ -28,11 +29,36 @@ const Hsc = () => {
                 target="_blank"
                 rel="noreferrer"
               >
-                WhatsApp Group
+                HSC-2024 Batch Group
               </a>
             </span>
           </div>
-
+          <div className="icon msg">
+            <i className="fab fa-facebook-messenger"></i>
+            <span>
+              <a
+                href="https://www.messenger.com/t/100021622432435"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Messenger
+              </a>
+            </span>
+          </div>
+        </div>
+        <div className="child1">
+          <div class="icon fb2">
+            <i className="fa-brands fa-facebook-f"></i>
+            <span>
+              <a
+                href="https://www.facebook.com/groups/181782293786160/?ref=share&mibextid=NSMWBT"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Facebook Official Group
+              </a>
+            </span>
+          </div>
           <div className="icon git">
             <i class="fa-brands fa-github"></i>
             <span>
@@ -45,8 +71,6 @@ const Hsc = () => {
               </a>
             </span>
           </div>
-        </div>
-        <div className="child1">
           <div className="icon lnk">
             <i className="fa-brands fa-linkedin-in"></i>
             <span>
@@ -60,18 +84,6 @@ const Hsc = () => {
             </span>
           </div>
 
-          <div className="icon twt">
-            <i className="fa-brands fa-twitter"></i>
-            <span>
-              <a
-                href="https://twitter.com/Mustafa75869102"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Twitter
-              </a>
-            </span>
-          </div>
           <div className="icon yt">
             <i class="fa-brands fa-youtube"></i>
             <span>
