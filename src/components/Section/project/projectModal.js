@@ -104,7 +104,7 @@ function ProjectModal({ setOpen, open, projectId }) {
           className="w-[96%] md:w-[700px] outline-none rounded-xl overflow-x-auto  scrollbar-hide dark:text-white bg-gray-50 dark:bg-[#1f2937]"
         >
           <button
-            className="absolute top-3 right-3 h-8 w-8 dark:bg-[#464f56] bg-gray-200 hover:bg-gray-300 dark:hover:bg-[#27282f] dark:text-white text-gray-700 rounded-full"
+            className="absolute top-3 right-3 h-8 w-8 dark:bg-[#464f56] bg-blue-400 hover:bg-blue-900 dark:hover:bg-[#27282f] dark:text-white text-gray-700 rounded-full"
             onClick={handleClose}
           >
             <i className="fa-solid fa-xmark"></i>

@@ -25,7 +25,7 @@ export default function Home() {
             <div
               className={`flex items-center justify-center flex-col overflow-hidden h-full w-full relative z-20 pt-20 md:pb-28 pb-32`}
             >
-        <div className="h-40 w-40 md:h-38 md:w-38 overflow-hidden rounded-full bg-dark mb-4">
+              <div className="h-40 w-40 md:h-38 md:w-38 overflow-hidden rounded-full bg-dark mb-4">
                 <img src={avatar} alt="avatar" />
               </div>
               <h2 className="text-3xl md:text-4xl font-medium pb-4 pt-2 ">
@@ -68,7 +68,7 @@ export default function Home() {
                 </Link>
 
                 <a
-                  href="https://drive.google.com/file/d/1mz5hvT0CvnWK1dapjxhruvdjIKDOHPnq/view?usp=sharing"
+                  href="https://drive.google.com/u/0/uc?id=1mz5hvT0CvnWK1dapjxhruvdjIKDOHPnq&export=download"
                   download
                 >
                   <Button name="Download CV" />
