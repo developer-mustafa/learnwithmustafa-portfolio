@@ -4,8 +4,12 @@ const Course = () => {
   return (
     <div>
       <div className="container mt-36 mb-32 text-center p-2">
+        <h3>
+          Instructor: <span className="text-center text-orange-300">Mustafa Rahman</span>
+        </h3>
         <h2 className="font-bold text-5xl text-cyan-500">
-          <span className="text-amber-500">Web Design</span> <span className="text-emerald-400">Mastery Course-2023</span>{" "}
+          <span className="text-amber-500">Web Design</span>{" "}
+          <span className="text-emerald-400">Mastery Course-2023</span>{" "}
         </h2>
         <button className="mt-6 bg-pink-700 hover:bg-green-600 text-white font-bold py-2 px-4 rounded inline-flex items-center">
           <svg
