@@ -10,6 +10,7 @@ import PageNotFound from "./pages/pageNotFound";
 import Projects from "./pages/projects";
 import Skill from "./pages/skill";
 import Hsc from "./pages/Hsc";
+import Course from "./pages/Course";
 
 function App() {
   const location = useLocation();
@@ -28,6 +29,7 @@ function App() {
         <Route path="/resume" element={<Experience />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/hsc" element={<Hsc />} />
+        <Route path="/course" element={<Course/>} />
         <Route path="*" element={<PageNotFound />} />
       </Routes>
     </Layout>

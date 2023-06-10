@@ -33,5 +33,10 @@
     "id": 7,
     "name": "HSC",
     "link": "/hsc"
+  },
+  {
+    "id": 8,
+    "name": "Courses",
+    "link": "/course"
   }
 ]
