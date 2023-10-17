@@ -91,7 +91,7 @@ export default function Navbar({ theme, toggleDarkMode }) {
             </div>
           </div>
         </div>
-        <SlideToggle duration={500} toggleEvent={toggleEvent} collapsed>
+        <SlideToggle duration={250} delay={300} toggleEvent={toggleEvent} collapsed>
           {({ setCollapsibleElement }) => (
             <div className={`${width > 768 && "hidden"}`}>
               <div
