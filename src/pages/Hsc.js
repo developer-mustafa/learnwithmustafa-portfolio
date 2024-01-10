@@ -21,15 +21,27 @@ const Hsc = () => {
             </span>
           </div>
 
-          <div className="icon wp">
+           <div className="icon wp">
             <i className="fa-brands fa-whatsapp"></i>
             <span>
               <a
-                href="https://chat.whatsapp.com/J7OZHQxrrpsIBwopeSrQlB"
+                href="https://chat.whatsapp.com/CxzZdV7kn6B5BUcNJUNVKv"
                 target="_blank"
                 rel="noreferrer"
               >
-                HSC-2025 Batch Group
+                ICT Hero 2024 Batch Group
+              </a>
+            </span>
+          </div>
+          <div className="icon yt">
+            <i class="fa-brands fa-youtube"></i>
+            <span>
+              <a
+                href="https://www.youtube.com/@techexpartbd7278"
+                target="_blank"
+                rel="noreferrer"
+              >
+               Youtube
               </a>
             </span>
           </div>
@@ -84,18 +96,7 @@ const Hsc = () => {
             </span>
           </div>
 
-          <div className="icon yt">
-            <i class="fa-brands fa-youtube"></i>
-            <span>
-              <a
-                href="https://mustafa-portfolio2.netlify.app/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Youtube
-              </a>
-            </span>
-          </div>
+          
         </div>
       </div>
     </div>
