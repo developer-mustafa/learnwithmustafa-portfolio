@@ -25,11 +25,11 @@ const Hsc = () => {
             <i className="fa-brands fa-whatsapp"></i>
             <span>
               <a
-                href="https://chat.whatsapp.com/CxzZdV7kn6B5BUcNJUNVKv"
+                href="https://chat.whatsapp.com/JIeVSzob3r30ExqRAENuY9"
                 target="_blank"
                 rel="noreferrer"
               >
-                ICT Hero 2024 Batch Group
+                ICT Hero 2025 Batch Group
               </a>
             </span>
           </div>
