@@ -12,11 +12,11 @@ const Hsc = () => {
             <i className="fa-brands fa-facebook-f"></i>
             <span>
               <a
-                href="https://www.facebook.com/groups/707432811185493/?mibextid=NSMWBT"
+                href="https://mustafaofficial.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
               >
-                HSC-2024 Batch Group
+                connect with me
               </a>
             </span>
           </div>
