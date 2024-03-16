@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "educationTitle": "Ext.University college of Technology.",
+    "startDate": "2019",
+    "endDate": "present",
+    "position": "Computer science and engineering. (CSE)",
+    "location": "Dhaka, Bangladesh",
+    "description": "The curriculum was comprehensive and up-to-date, covering essential theoretical knowledge and practical skills. The faculty members were highly knowledgeable and supportive, always willing to help and provide guidance. The university's infrastructure and resources were excellent, providing a conducive learning environment. Overall, I am grateful for the quality education and valuable insights gained during my time at the university."
+  },
+  {
+    "id": 1,
+    "educationTitle": "Feni Govt College.",
+    "startDate": "-",
+    "endDate": "present",
+    "position": "Bsc",
+    "location": "Feni,Chattogram, Bangladesh",
+    "description": "My BSc degree has been a fulfilling educational journey, equipping me with a strong foundation in various disciplines. The curriculum was well-designed, offering a balance between theoretical concepts and practical applications. The supportive faculty and collaborative learning environment enhanced my understanding and critical thinking skills. I am grateful for the opportunities and knowledge gained, preparing me for a successful career in my field."
+  }
+]
